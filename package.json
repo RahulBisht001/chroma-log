@@ -1,0 +1,34 @@
+{
+  "name": "chroma-log",
+  "version": "1.0.0",
+  "description": "A library to colorify your console for better readability.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulBisht001/chroma-log.git"
+  },
+  "keywords": [
+    "chrome",
+    "chroma",
+    "chroma-log",
+    "log",
+    "color"
+  ],
+  "author": "RahulB <https://www.linkedin.com/in/RahulB001>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RahulBisht001/chroma-log/issues"
+  },
+  "homepage": "https://github.com/RahulBisht001/chroma-log#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
