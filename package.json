@@ -1,5 +1,5 @@
 {
-  "name": "chroma-log",
+  "name": "colorful-terminal",
   "version": "1.0.0",
   "description": "A library to colorify your console for better readability.",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RahulBisht001/chroma-log.git"
+    "url": "git+https://github.com/RahulBisht001/colorful-terminal.git"
   },
   "keywords": [
     "chrome",
@@ -22,9 +22,9 @@
   "author": "RahulB <https://www.linkedin.com/in/RahulB001>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RahulBisht001/chroma-log/issues"
+    "url": "https://github.com/RahulBisht001/colorful-terminal/issues"
   },
-  "homepage": "https://github.com/RahulBisht001/chroma-log#readme",
+  "homepage": "https://github.com/RahulBisht001/colorful-terminal#readme",
   "devDependencies": {
     "typescript": "^5.0.4"
   },

@@ -1,1 +1,1 @@
-# RahulB ChromaLog library
+##  Colorful-terminal library
